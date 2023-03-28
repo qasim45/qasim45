@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Qasim Alvi</h1>
 <h3 align="center">Computer Systems Engineer focus on Data Science and machie learning deep learning</h3>
 
-- 🔭 I’m currently working as Data Scietiest ****
+- 🔭 I’m currently working as Data Scietiest 
 
-- 🌱 I’m currently learning **Leetcode programming ,Deep Learning**
+- 🌱 I’m currently learning Deep Learning**
 
 - 💬 Ask me about **Machine Learning Deep Learning**
 
