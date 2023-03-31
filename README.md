@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as Data Scietiest 
 
-- 🌱 I’m currently learning Deep Learning**
+- 🌱 I’m currently learning Deep Learning & Leetcode Programming
 
 - 💬 Ask me about **Machine Learning Deep Learning**
 
